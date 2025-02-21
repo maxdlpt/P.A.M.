@@ -1,4 +1,4 @@
-# Portfolio Allocation Model
+# Portfolio Allocation Model (PAM)
 
 This document's purpose is to find the optimal allocation for any public equity portfolio of up to 30 assets based on the selected allocation method.
 
